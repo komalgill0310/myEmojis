@@ -1,28 +1,39 @@
-# coe934119995741f7dd385578
+# **My Emojis**
 
-Quick start:
+# Overview
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+Welcome to My Emojis! 😊 This project is a representation of myself using emojis. The emojis showcase my favorite activities, interests, and games. Additionally, there is an input box where users can add more emojis if they wish to include additional activities. Once a user enters an emoji in the input, they can add it either to the beginning or the end of the existing emojis. Furthermore, users can also delete emojis from either the beginning or the end.
 
-## Development
+# Website
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+Live Version [here](https://myemojis03.netlify.app/)
 
-```
-$ yarn watch # npm run watch
-```
+# Preview
 
-## About Scrimba
+<img src = "myEmojis.gif">
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## What I've Learned
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This project has provided practical experience in rendering data on the DOM, attaching event listeners to buttons, and practicing array methods such as push, unshift, shift, and pop.
 
-Happy Coding!
+## Getting Started
+
+Explore the My Emojis by following these steps:
+
+1. Clone the repository.
+2. Open the index.html file in your browser.
+3. View the existing emojis representing the creator's interests.
+4. Use the input box to add your own emojis to either the beginning or the end.
+5. Delete emojis from either the beginning or the end as desired.
+
+## Features
+
+- **Emoji Representation**: Represents the creator using emojis that showcase favorite activities and interests.
+
+- **Dynamic Emoji Addition**: Users can add emojis to either the beginning or the end using the input box.
+
+- **Emoji Deletion**: Remove emojis from either the beginning or the end.
+
+# Author
+
+Komal | Software Developer | [Portfolio](https://kaurkomal.com/) | [LinkedIn](https://www.linkedin.com/in/hssa03/)
